@@ -1,1 +1,1 @@
-# historia-dos-games (não está pronto)
+Caso queira ver o site: https://historia-dos-games.vercel.app/ (não está finalizado)
